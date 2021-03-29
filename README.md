@@ -9,7 +9,7 @@
 <br>
 
   <li> Desenvolvimento de Software Multiplataforma </li>
-  <li> Disciplina:Design Digital</li>
+  <li> Disciplina: Design Digital</li>
   <li> Prof°. Fabrício Galende Marques de Carvalho</li>
 
 <br>
@@ -32,6 +32,8 @@
 ## Autora :
 
 * Rayana Caroline Da Silva [Linked In](https://www.linkedin.com/in/rayana-silva-3a9292195/) | [GitHub](https://github.com/raysilva02)
+
+<br />
 
 ## - :Vídeo de navegação pelo protótipo e explicação de parte do código fonte 
 
