@@ -9,8 +9,8 @@
 <br>
 
   <li> Desenvolvimento de Software Multiplataforma </li>
-  <p> Disciplina:Design Digital</p>
-  <p> Prof°. Fabrício Galende Marques de Carvalho</p>
+  <li> Disciplina:Design Digital</li>
+  <li> Prof°. Fabrício Galende Marques de Carvalho</li>
 
 <br>
 
