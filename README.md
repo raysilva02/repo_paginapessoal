@@ -15,7 +15,7 @@
 <br>
 
 
-## Pasta "SRC" ✉️
+## Pasta "SRC" 📁
 * *home_desktop.html* : nesse arquivo é armazenado o cógigo fonte, em HTML, da tela home da página pessoal. Nela tem-se imagens, textos e links para as outras telas.</li>
 * *educ_desktop.html*: nesse arquivo é armazenado o código fonte, em HTML, da tela sobre minha educação da página pessoal. Nela tem-se informações das minhas formações escolares.</a>
 * *sf_destop.html*: nesse arquivo é armazenado o cógigo fonte> emm HTML, da tela que possui indicações das minhas séries e filmes favoritos.</a>
@@ -23,13 +23,13 @@
 * *estilos.css*: nesse arquivo é armazenado o código de estilização da página pessoal (elementos de todas as telas), em CSS. 
 <br />
 
-##  Pasta "MGT" ✉️
+##  Pasta "MGT" 📁
 * *prototipo_desktop*: esse PDF possui imagens do protótipo navegável visto por um dispositivo desktop. 
 * *prototipo_mobile*: esse PDF possui imagens do protótipo navegável visto por um dipostivo móvel. 
 		
 <br />
 
-##  Autora 📝
+##  Autora ✏️
 
 * Rayana Caroline Da Silva [Linked In](https://www.linkedin.com/in/rayana-silva-3a9292195/) | [GitHub](https://github.com/raysilva02)
 
