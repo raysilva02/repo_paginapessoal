@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/STATUS%20DA%20PAGINA%20PESSOAL-EM%20DESENVOLVIMENTO-orange)](https://shields.io/)
 
-<h2 text align="center">Fatec Prof Jessen Vidal - São José dos Campos - DSM</h2>
+<h2 text align="center"> 🏫 Fatec Prof Jessen Vidal - São José dos Campos - DSM</h2>
  
  <br>
 
