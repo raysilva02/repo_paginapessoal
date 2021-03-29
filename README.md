@@ -24,8 +24,8 @@
 <br />
 
 ##  Pasta "MGT" 📁
-* *prototipo_desktop*: esse PDF possui imagens do protótipo navegável visto por um dispositivo desktop. 
-* *prototipo_mobile*: esse PDF possui imagens do protótipo navegável visto por um dipostivo móvel. 
+* *prototipo_desktop.pdf*: esse PDF possui imagens do protótipo navegável visto por um dispositivo desktop. 
+* *prototipo_mobile.pdf*: esse PDF possui imagens do protótipo navegável visto por um dipostivo móvel. 
 		
 <br />
 
