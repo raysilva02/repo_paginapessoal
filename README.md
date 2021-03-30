@@ -40,6 +40,6 @@
 
 <br/>
 
-## Protótipo gerado pelos códigos fontes (HTML + CSS) 🔗
+## Protótipo gerado pelos códigos fontes (HTML + CSS) 🖱️
 👉 Para ver a página, acesse [aqui](file:///C:/Users/rayan/OneDrive/%C3%81rea%20de%20Trabalho/src/home_desktop.html).
 
