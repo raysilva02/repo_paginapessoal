@@ -16,7 +16,7 @@
 
 
 ## Pasta "SRC" 📁
-* *home_desktop.html* : nesse arquivo é armazenado o cógigo fonte, em HTML, da tela home da página pessoal. Nela tem-se imagens, textos e links para as outras telas.</li>
+* *home_desktop.html* : nesse arquivo é armazenado o código fonte, em HTML, da tela home da página pessoal. Nela tem-se imagens, textos e links para as outras telas.</li>
 * *educ_desktop.html*: nesse arquivo é armazenado o código fonte, em HTML, da tela sobre minha educação da página pessoal. Nela tem-se informações das minhas formações escolares.</a>
 * *sf_destop.html*: nesse arquivo é armazenado o código fonte, em HTML, da tela que possui indicações das minhas séries e filmes favoritos.</a>
 * *proj_desktop.html*: nesse arquivo é armazenado o código fonte, em HTML, da tela sobre projetos que já participei. Nela tem-se os nomes dos projetos, instituições que promoveram e um resumo de cada projeto.</a>
