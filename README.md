@@ -37,3 +37,9 @@
 
 ## Vídeo de navegação pelo protótipo e explicação de parte do código fonte 🎥
 👉 Para assistir o video, acesse [aqui](https://www.youtube.com/watch?v=VYAdvso08_M).
+
+<br/>
+
+## Protótipo gerado pelos códigos fontes (HTML + CSS) 🔗
+👉 Para ver a página, acesse [aqui](file:///C:/Users/rayan/OneDrive/%C3%81rea%20de%20Trabalho/src/home_desktop.html).
+
