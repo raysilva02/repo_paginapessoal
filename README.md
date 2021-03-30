@@ -41,5 +41,5 @@
 <br/>
 
 ## Protótipo gerado pelos códigos fontes (HTML + CSS) 🖱️
-👉 Para ver a página, acesse [aqui](file:///C:/Users/rayan/OneDrive/%C3%81rea%20de%20Trabalho/src/home_desktop.html).
+👉 Para ver a página, acesse [aqui](https://www.figma.com/proto/3PbFRtxM3Kscwh7goO3BOd/prototipo_webpessoal?node-id=48%3A0&scaling=scale-down&page-id=33%3A136).
 
