@@ -4,7 +4,7 @@
  
  <br>
 
-<h2 text align="center">Página Pessoal 🖥️🧍</h2>
+<h2 text align="center">Página Pessoal 🖥️👤</h2>
 
 <br>
 
