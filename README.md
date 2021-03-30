@@ -37,7 +37,7 @@
 <br />
 
 ## Vídeo de navegação pelo protótipo e explicação de parte do código fonte 🎥
-👉 Para assistir o video, acesse [aqui](https://www.youtube.com/watch?v=VYAdvso08_M).
+👉 Para assistir o video, acesse [aqui](https://youtu.be/27cFZwr1HJw).
 
 <br/>
 
