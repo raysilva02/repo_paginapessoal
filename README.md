@@ -42,4 +42,5 @@
 
 ## Protótipos navegáveis 🖱️
 👉 Para visualizar o protótipo para desktop, acesse [aqui](https://www.figma.com/proto/3PbFRtxM3Kscwh7goO3BOd/prototipo_webpessoal?node-id=33%3A0&scaling=min).
+<br/>
 👉 Para visualizar o protótipo para mobile, acesse [aqui](https://www.figma.com/proto/3PbFRtxM3Kscwh7goO3BOd/prototipo_webpessoal?node-id=48%3A0&scaling=scale-down&page-id=33%3A136).
